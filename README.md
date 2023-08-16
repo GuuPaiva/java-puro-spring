@@ -1,1 +1,1 @@
-Projetinho feito em aula utilizando mais Java Spring
+Projetinho feito em aula utilizando Java Spring
